@@ -176,3 +176,4 @@ Don't forget to star the repository and share your feedback!✨
 
 ## Authors
 - [@RishiBakshii](https://github.com/RishiBakshii)
+- mswiac
